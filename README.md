@@ -61,7 +61,7 @@
     </td>
       <td align="center" width="96"> 
       <a href="#tdcforonda-tech" >
-        <img src="https://www.freeiconspng.com/img/28389" width="48" height="48" alt="C++" />
+        <img src="assets/cpp-logo.png" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
