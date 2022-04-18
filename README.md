@@ -92,9 +92,6 @@
       </a>
       <br>Figma
     </td>
-     <td align="center" width="96"> 
-      
-    </td>
   </tr>
 </table>
 
