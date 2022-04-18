@@ -93,10 +93,7 @@
       <br>Figma
     </td>
      <td align="center" width="96"> 
-      <a href="#tdcforonda-tech" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
+      
     </td>
   </tr>
 </table>
