@@ -99,9 +99,3 @@
 [twitter]: https://twitter.com/__fords "Twitter"
 
 
-
-[![Thea's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tdcforonda&theme=react-dark)](https://github.com/tdcforonda)
-
-
-
-
