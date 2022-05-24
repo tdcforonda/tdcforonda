@@ -8,8 +8,7 @@
 </a>
 
 - :office: &nbsp;I'm currently studying at **Mapua University**
-- :seedling: &nbsp;I’m currently learning **JavaScript and Python**
-- :speech_balloon: &nbsp;I like to talk about **Web Development**, **Accessibility**, and **SEO**
+- :seedling: &nbsp;I’m currently learning **Data Science, Engineering, and Artificial Intelligence**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/tdcforonda/)**
 - :bird: &nbsp;Let's talk more in **[Twitter](https://www.twitter.com/__fords)**
@@ -25,15 +24,15 @@
   <tr>
     <td align="center" width="96">
       <a href="#tdcforonda-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#tdcforonda-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#tdcforonda-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#tdcforonda-tech">
