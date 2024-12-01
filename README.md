@@ -1,17 +1,12 @@
 
-<h1 align="left" id="tdcforonda-title">:wave: Hello there! I'm Thea Foronda</h1>
-<h3 align="left">I am a Computer Engineering student at Mapua University </h3>
+<h1 align="left" id="tdcforonda-title">:wave: Hello there! I'm Thea</h1>
+<h3><em>Creative Developer</em></h3>
 
-
-<a href="#s=tdcforonda-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=tdcforonda&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Thea Foronda stats" align="right" />
-</a>
-
-- :office: &nbsp;I'm currently studying at **Mapua University**
-- :seedling: &nbsp;I’m currently learning **Data Science, Engineering, and Artificial Intelligence**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
-- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/tdcforonda/)**
-- :bird: &nbsp;Let's talk more in **[Twitter](https://www.twitter.com/__fords)**
+|Tech Stuff                            | Interests                      |
+|--------------------------------------|--------------------------------|
+|🎨 &nbsp; Interactive UX Prototyping  | 🎸 Music                        |
+|💻 &nbsp; HTML5, CSS3, ECMAScript6    | 🎮 Pixel RPGs                   |
+|🖥️ &nbsp; MERN Stack                  | 💃 Street parties               |
 
 <br>
 
