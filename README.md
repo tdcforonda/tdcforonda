@@ -1,12 +1,26 @@
 
 <h1 align="left" id="tdcforonda-title">:wave: Hello there! I'm Thea</h1>
-<h3><em>I'm a Creative Developer from the ☀️ Philippines ☀️</em></h3>
 
-|Tech Stuff                            | Interests                      |
-|--------------------------------------|--------------------------------|
-|🎨 &nbsp; Interactive UX Prototyping  | 🎸 Music                        |
-|💻 &nbsp; HTML5, CSS3, ECMAScript6    | 🎮 Pixel RPGs                   |
-|🖥️ &nbsp; MERN Stack                  | 💃 Street parties               |
+> Creative Developer focused on the development of user-friendly, accessible, and responsive web and mobile applications. *I believe that tech should be usable for people of all shapes, sizes, and capabilities.*
+
+<table align="center">
+  <tr>
+    <th>Tech Stuff</th>
+    <th>Interests</th>
+  </tr>
+  <tr>
+    <td>🎨 Interactive UX Prototyping</td>
+    <td>🎸 Music</td>
+  </tr>
+  <tr>
+    <td>💻 HTML5, CSS3, ECMAScript6</td>
+    <td>🎮 Pixel RPGs</td>
+  </tr>
+  <tr>
+    <td>🖥️ MERN Stack</td>
+    <td>💃 Street parties </td>
+  </tr>
+</table>
 
 <br>
 
