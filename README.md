@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>🖥️ MERN Stack</td>
-    <td>💃 Street parties, art fairs, and flea markets </td>
+    <td></td>
   </tr>
 </table>
 
