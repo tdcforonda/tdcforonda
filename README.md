@@ -6,19 +6,15 @@
 <table align="center">
   <tr>
     <th>Tech Stuff</th>
-    <th>Interests</th>
   </tr>
   <tr>
     <td>🎨 Interactive UX Prototyping</td>
-    <td>🎸 Music</td>
   </tr>
   <tr>
     <td>💻 HTML5, CSS3, ECMAScript6</td>
-    <td>🎮 Pixel RPGs</td>
   </tr>
   <tr>
     <td>🖥️ MERN Stack</td>
-    <td></td>
   </tr>
 </table>
 
