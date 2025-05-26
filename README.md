@@ -3,21 +3,6 @@
 
 > Creative Developer focused on the development of user-friendly, accessible, and responsive web and mobile applications. *I believe that tech should be usable for people of all shapes, sizes, and capabilities.*
 
-<table align="center">
-  <tr>
-    <th>Tech Stuff</th>
-  </tr>
-  <tr>
-    <td>🎨 Interactive UX Prototyping</td>
-  </tr>
-  <tr>
-    <td>💻 HTML5, CSS3, ECMAScript6</td>
-  </tr>
-  <tr>
-    <td>🖥️ MERN Stack</td>
-  </tr>
-</table>
-
 <br>
 
 <h2 align="center" id="tdcforonda-tech">Favorite Tech</h2>
